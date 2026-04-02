@@ -12,7 +12,7 @@ fi
 
 cd $(dirname $(realpath $0))
 
-for f in mesa_clc vtn_bindgen2; do
+for f in mesa_clc panfrost_compile panfrostdump panfrost_texfeatures vtn_bindgen2; do
 	cp $SRC_BIN_DIR/$f ${f}.real || continue
 	rm $f
 	ln -s .mesa-build-dep_wrapper $f
