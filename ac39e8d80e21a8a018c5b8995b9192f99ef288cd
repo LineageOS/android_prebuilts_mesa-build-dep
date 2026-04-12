@@ -16,6 +16,24 @@
       "message": "1. please tell how did you compile these in commit message, like I did before\n2. please make use of the wrapper, and add the needed libs, so that it won\u0027t encounter dependency issues on other systems\n3. you have compiled it from the matching mesa version, right?",
       "revId": "ac39e8d80e21a8a018c5b8995b9192f99ef288cd",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "477bb43e_13fd8bf1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-04-12T18:22:04Z",
+      "side": 1,
+      "message": "I\u0027ll update the message, yes these were compiled using lineage mesa sources according to mesa panfrost build instructions",
+      "parentUuid": "29f5c496_d8bb6d68",
+      "revId": "ac39e8d80e21a8a018c5b8995b9192f99ef288cd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
