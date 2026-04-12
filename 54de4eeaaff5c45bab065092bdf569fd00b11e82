@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "83162366_e00c0ce4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-04-12T20:30:10Z",
+      "side": 1,
+      "message": "Rebuilt against the sha in the commit msg with the build flags listed.",
+      "revId": "54de4eeaaff5c45bab065092bdf569fd00b11e82",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
