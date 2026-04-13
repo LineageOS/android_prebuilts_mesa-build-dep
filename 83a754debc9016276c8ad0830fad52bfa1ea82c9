@@ -16,6 +16,24 @@
       "message": "on which OS (and version) it was built? tell about it too",
       "revId": "83a754debc9016276c8ad0830fad52bfa1ea82c9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8f00d307_798e96cb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-04-13T17:54:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bd84088c_54a97317",
+      "revId": "83a754debc9016276c8ad0830fad52bfa1ea82c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
