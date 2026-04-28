@@ -16,6 +16,23 @@
       "message": "Feel free to rebuild against Debian if you wish",
       "revId": "ac8935f8b0f524755c646b021850cbe6a6b1fd17",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "08d44f12_16a70510",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2026-04-28T15:39:28Z",
+      "side": 1,
+      "message": "```\n$ ./mesa_clc\n./mesa_clc.real: error while loading shared libraries: libLLVM.so.20.1: cannot open shared object file: No such file or directory\n```",
+      "revId": "ac8935f8b0f524755c646b021850cbe6a6b1fd17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
