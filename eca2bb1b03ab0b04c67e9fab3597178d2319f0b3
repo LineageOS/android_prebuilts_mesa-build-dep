@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "82f7a1d0_57f1380e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2026-06-10T00:23:21Z",
+      "side": 1,
+      "message": "This should resolve the odin2_ack build failure on infra.",
+      "revId": "eca2bb1b03ab0b04c67e9fab3597178d2319f0b3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
