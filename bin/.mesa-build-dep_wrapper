@@ -1,4 +1,4 @@
 #!/bin/bash
 MY_DIR=$(dirname "$(realpath "$0")")
 MY_PARENT_DIR=$(realpath "$MY_DIR/..")
-exec env LD_LIBRARY_PATH=${MY_PARENT_DIR}/lib64 PATH=${MY_DIR} ${MY_PARENT_DIR}/lib64/ld-linux-x86-64.so.2 ${0}.real $@
+exec env LD_LIBRARY_PATH=${MY_PARENT_DIR}/lib64 PATH=${MY_DIR} ${MY_PARENT_DIR}/lib64/ld-linux-x86-64.so.2 ${0}.real "$@"
